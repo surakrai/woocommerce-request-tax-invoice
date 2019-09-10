@@ -106,8 +106,13 @@ class Woocommerce_Request_Tax_Invoice_Admin {
 	}
  
 	function filter_woocommerce_order_formatted_shipping_address( $fields, $order ) {
-		$fields['shipping_tax_number'] = get_post_meta( $order->get_id(), '_shipping_tax_number', true );
+
+		if ( $shipping_tax_number = get_post_meta( $order->get_id(), '_shipping_tax_number', true )) {
+			$fields['shipping_tax_number'] = $shipping_tax_number;
+		}
+
 		return $fields;
+
 	}
 
 
