@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-request-tax-invoice\n"
+"POT-Creation-Date: 2019-09-10 19:01+0700\n"
+"PO-Revision-Date: 2019-09-10 19:02+0700\n"
+"Last-Translator: \n"
+"Language-Team: Surakrai\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-woocommerce-request-tax-invoice-admin.php:104
+msgid "Shipping"
+msgstr ""
+
+#: admin/class-woocommerce-request-tax-invoice-admin.php:138
+#: public/class-woocommerce-request-tax-invoice-public.php:201
+#: public/class-woocommerce-request-tax-invoice-public.php:202
+msgid "Tax identification number"
+msgstr ""
+
+#: admin/class-woocommerce-request-tax-invoice-admin.php:157
+msgid "Customer needs a tax invoice."
+msgstr ""
+
+#: public/class-woocommerce-request-tax-invoice-public.php:110
+#: public/class-woocommerce-request-tax-invoice-public.php:114
+#: public/class-woocommerce-request-tax-invoice-public.php:118
+#: public/class-woocommerce-request-tax-invoice-public.php:122
+#: public/class-woocommerce-request-tax-invoice-public.php:126
+msgid "Shipping address"
+msgstr ""
+
+#: public/class-woocommerce-request-tax-invoice-public.php:130
+msgid "Need a tax invoice?"
+msgstr ""
+
+#: public/class-woocommerce-request-tax-invoice-public.php:134
+#, php-format
+msgid "Tax invoice %s"
+msgstr ""
+
+#: public/class-woocommerce-request-tax-invoice-public.php:138
+#: public/class-woocommerce-request-tax-invoice-public.php:142
+#: public/class-woocommerce-request-tax-invoice-public.php:146
+msgid "Tax invoice address"
+msgstr ""

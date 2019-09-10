@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #order_data .order_data_column .form-field._shipping_tax_number_field {
+   width: 100%;
+ }
